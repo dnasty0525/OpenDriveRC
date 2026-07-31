@@ -4,8 +4,8 @@
 // WiFi
 // ============================
 
-#define WIFI_SSID      "7932CB-2.4"
-#define WIFI_PASSWORD  "suzane1234"
+#define WIFI_SSID      "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD  "YOUR_WIFI_PASSWORD"
 
 #define UDP_PORT 4210
 
