@@ -13,7 +13,8 @@ The Pi reads the wheel and pedals, maps them into a compact binary packet, and s
 ## Hardware
 
 - Logitech G920 wheel + pedals
-- Raspberry Pi (4 or newer recommended), connected to the same Wi-Fi network as the ESP32
+- Raspberry Pi (4 or newer recommended), **MUST be running Raspberry Pi OS, use Raspberry Pi    Imager to install OS and connect to the same Wi-Fi network as the ESP32.
+- Raspberry Pi Imager https://www.raspberrypi.com/software/
 - Freenove ESP32-WROOM V1.3 (classic ESP32, **not** an S3/S2/C3 board)
 - Traxxas Rustler (or similar) with a Traxxas VXL-3s brushless ESC
 - Steering servo (stock chassis servo)
